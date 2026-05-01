@@ -1,6 +1,20 @@
 using System;
 
+
 public class Problem
+{
+    public static void Main(string[] args){
+     int N1,N2,soma;
+    Console.Write("Insira um numero:");
+    N1 = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Insira um outro numero:");
+    N2 = Convert.ToInt32(Console.ReadLine());
+    soma = N1 + N2;
+    Console.WriteLine("A soma do numero {0} com o numero {1} e:{2}",N1,N2,soma);
+    }
+}
+
+/*public class Problem
 {
     public static void Main(string[] args)
     {
@@ -20,7 +34,7 @@ public class Problem
             Console.WriteLine("Rapaz não era essa a resposta que eu queria.");
         }
     }
-}
+}*/
 
 
 

@@ -7,6 +7,7 @@ C:\Users\ruhtr\Desktop\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.edito
 C:\Users\ruhtr\Desktop\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
 C:\Users\ruhtr\Desktop\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
 C:\Users\ruhtr\Desktop\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\ruhtr\Desktop\C#\obj\Debug\net8.0\C#.sourcelink.json
 C:\Users\ruhtr\Desktop\C#\obj\Debug\net8.0\C#.dll
 C:\Users\ruhtr\Desktop\C#\obj\Debug\net8.0\refint\C#.dll
 C:\Users\ruhtr\Desktop\C#\obj\Debug\net8.0\C#.pdb
